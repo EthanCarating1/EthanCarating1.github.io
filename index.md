@@ -2,11 +2,11 @@
 
 This is my home page! My name is Ethan Carating and I am a student at Cal State Fullerton and my major is Elertical Engineer.
 
- ## Computer Science Projects
+# Computer Science Projects
 
  My GitHub page is http://github.com/EthanCarating1.github.io
 
- ### CPSC 120
+# CPSC 120
 
  * Lab 7
 
